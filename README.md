@@ -6,3 +6,7 @@ The Spooky Guests :
 The spring awakening :
 
 ![Butterfly](https://github.com/Spartan-X1/Animations/blob/main/Butterfly.gif)
+
+A rainyDay :
+
+![Cabins](https://github.com/Spartan-X1/Animations/blob/main/Cabins.gif)
