@@ -10,3 +10,7 @@ The spring awakening :
 A rainyDay :
 
 ![Cabins](https://github.com/Spartan-X1/Animations/blob/main/Cabins.gif)
+
+Procedural Robotic Movements :
+
+![Robot](https://github.com/Spartan-X1/Animations/blob/main/Robot.gif)
