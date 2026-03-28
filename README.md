@@ -20,3 +20,7 @@ Startup freelance Project :
 ![Clean_energy](https://github.com/Spartan-X1/Animations/blob/main/Clean_energy_1.gif)
 
 ![Clean_energy_1](https://github.com/Spartan-X1/Animations/blob/main/Clean_energy_2.gif)
+
+InterIIT project :
+
+![InterIIT](https://github.com/Spartan-X1/Animations/blob/main/InterIIT.gif)
